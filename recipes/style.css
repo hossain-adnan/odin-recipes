@@ -1,0 +1,23 @@
+body {
+    background-color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(65, 64, 64);
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
+
+h1 {
+    
+    color: rgb(136, 20, 0);
+}
+
+h5 {
+    font-weight: 600;
+}
+
+li:hover {
+    color: hsl(271, 100%, 33%);
+}
